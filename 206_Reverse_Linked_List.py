@@ -6,7 +6,6 @@
 #         self.val = val
 #         self.next = next
 
-
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head:
@@ -30,4 +29,3 @@ class Solution:
 
             # Move on to the next node
             head = next_head
-

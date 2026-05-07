@@ -22,4 +22,3 @@ class MinStack:
 
     def getMin(self) -> int:
         return self.mins[-1]
-

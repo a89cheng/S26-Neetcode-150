@@ -2,6 +2,7 @@
 
 class Solution:
     def isValid(self, s: str) -> bool:
+        #Key use of mapping
         symbols = {"(": ")", "{": "}", "[": "]"}
         recent_o = []
 
