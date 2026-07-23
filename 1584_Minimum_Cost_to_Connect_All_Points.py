@@ -1,4 +1,4 @@
-# Completed July 21, 2026 | 90 minutes
+# Completed July 20, 2026 | 90 minutes
 
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
