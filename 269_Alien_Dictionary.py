@@ -1,4 +1,4 @@
-# Completed July 29, 2026 | 109 min
+# Completed July 29, 2026 | 109 minutes
 
 class Solution:
     def foreignDictionary(self, words: List[str]) -> str:
